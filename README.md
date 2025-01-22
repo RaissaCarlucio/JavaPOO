@@ -1,4 +1,4 @@
-# 🌸 JavaPOO 🌸
+# 🌸 JavaPOO 
 
 Este repositório contém os exercícios e aprendizados sobre **Programação Orientada a Objetos (POO)** em Java. O projeto foi desenvolvido utilizando o **IntelliJ IDEA**.
 
