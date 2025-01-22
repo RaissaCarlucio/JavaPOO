@@ -4,7 +4,7 @@ Este repositório contém os exercícios e aprendizados sobre **Programação Or
 
 ## 🌺 Tecnologias utilizadas
 
-- **Java 17** (ou a versão que você está usando)
+- **Java 17** 
 - **IntelliJ IDEA**
 
 ## 🌷 Estrutura do projeto
