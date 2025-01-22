@@ -1,17 +1,17 @@
-# <span style="color: #FF69B4;">JavaPOO</span>
+# 🌸 JavaPOO 🌸
 
 Este repositório contém os exercícios e aprendizados sobre **Programação Orientada a Objetos (POO)** em Java. O projeto foi desenvolvido utilizando o **IntelliJ IDEA**.
 
-## <span style="color: #FF69B4;">Tecnologias utilizadas</span>
+## 🌺 Tecnologias utilizadas
 
 - **Java 17** (ou a versão que você está usando)
 - **IntelliJ IDEA**
 
-## <span style="color: #FF69B4;">Estrutura do projeto</span>
+## 🌷 Estrutura do projeto
 
-O projeto está organizado em aulas.
+O projeto está organizado em aulas
 
-## <span style="color: #FF69B4;">Objetivo</span>
+## 💖 Objetivo
 
 O objetivo deste projeto é:
 - Aprender os conceitos fundamentais de POO:
@@ -21,9 +21,10 @@ O objetivo deste projeto é:
   - Herança e Polimorfismo
 - Aplicar os conceitos na prática por meio de exercícios.
 
-## <span style="color: #FF69B4;">Como executar</span>
+## 🌼 Como executar
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/RaissaCarlucio/JavaPOO.git
+
 
