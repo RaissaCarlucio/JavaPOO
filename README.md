@@ -11,7 +11,7 @@ Este repositório contém os exercícios e aprendizados sobre **Programação Or
 
 O projeto está organizado em aulas
 
-## 💖 Objetivo
+## 🌷 Objetivo
 
 O objetivo deste projeto é:
 - Aprender os conceitos fundamentais de POO:
