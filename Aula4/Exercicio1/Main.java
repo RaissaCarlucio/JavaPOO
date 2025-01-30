@@ -8,5 +8,6 @@ public class Main {
         z.alimentar(30);
         z.perderVida(40);
         z.alimentar(30);
+
     }
 }
